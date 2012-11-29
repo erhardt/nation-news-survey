@@ -1,4 +1,6 @@
-nation-news-survey
+Nation News Survey
 ==================
 
-This is a web app for creating a dynamic set of surveys based on news stories from different nations.
+This is a Python (Flask) web app for creating a dynamic set of surveys based on news stories from different nations.
+
+CSS is based on Bootstrap CSS.
